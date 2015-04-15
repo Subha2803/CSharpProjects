@@ -14,6 +14,11 @@ namespace HelloWorld
             Console.WriteLine("OS: {0}", Environment.OSVersion);
             Console.WriteLine(Environment.MachineName);
             Console.WriteLine(Environment.UserName);
+
+            ///Working on Homework 1
+            ///
+            Person p = new Person();
+            // p.
         }
     }
 }
