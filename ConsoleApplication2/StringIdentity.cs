@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication2
 {
-    class StringIdentity
+    class Program
     {
         static void Main(string[] args)
         {
